@@ -1,0 +1,38 @@
+@import url(http://fonts.googleapis.com/css?family=Arimo|Roboto+Slab);
+
+body{
+  background-color: #00ccff;
+}
+
+.title{
+  color: purple;
+}
+p {
+  font-family: 'Arimo', sans-serif;
+}
+/* * means that it controls everything no matter what the tab is. Also you can
+ float the text float(left, right, center) Padding helps seperates the nar bar
+ ex. padding: 0px 10px (The 0px is for the top and bottom, the 10px is for left
+ and right) Display: (none, block, inline, inline block)
+ BLOCK is statcked on top of each other unless it has the command float.
+ INLINE means that they are side by side with each other but they would move
+ over to the next line.
+ INLINE BLOCK is just like the other too but not really recommeded.
+ Can do padding for specific sides ex. padding-bottom
+ */
+ /*
+ Nav bar{
+
+ width 800px
+ margin: 0 auto
+ borders: 1px solid gray;
+ background: darkblue
+ color:white
+ float:left
+ hover a {
+ font: yellow
+ }
+
+
+
+ */
